@@ -7111,7 +7111,7 @@ merkle-patricia-tree@^2.1.2, merkle-patricia-tree@^2.3.2:
 
 metamask-mobile-provider@MetaMask/metamask-mobile-provider#provider-compat:
   version "1.0.0"
-  resolved "https://codeload.github.com/MetaMask/metamask-mobile-provider/tar.gz/75ba50cf7c4192f90196610d38a00e5a8d230328"
+  resolved "https://codeload.github.com/MetaMask/metamask-mobile-provider/tar.gz/dc02165c479d3723e9142694825f58e3eccf4e73"
 
 methods@^1.1.1:
   version "1.1.2"
